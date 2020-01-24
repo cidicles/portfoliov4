@@ -10,12 +10,12 @@ export default {
   about: {
     heading: 'ABOUT ME',
     desc: 'I am a multidisciplinary developer with a penchant for design. I love creating interactive and delightful user experiences and microinteractions using the latest and greatest.',
-    cta: 'Work Background',
+    cta: 'Background',
     img: 'https://picsum.photos/700/300/?random',
     bg: `${cdnBase}backgrounds/general/2.jpg`,
   },
   approach: {
-    heading: 'Work Background',
+    heading: 'Background',
     desc: 'I\'ve been a software developer for the last 14 years for everything from internal wikis to web based VR to multi-tenant high traffic applications. I have a strong understanding of agile workflow and knows what it takes to get it done in a multitude of environments.',
     cta: 'Previous Work',
     img: 'https://picsum.photos/700/300/?random',
