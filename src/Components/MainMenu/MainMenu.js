@@ -36,7 +36,7 @@ class MainMenu extends Component {
           <ul>
             {routes.map((link, i) =>
               <li key={`link-${i}`} onClick={() => this.toggleMenu(link.bg)}>
-                <Link to={`/portfoliov4/${link.path}`}>{link.name}</Link>
+                <Link to={`${link.path}`}>{link.name}</Link>
               </li>
             )}
           </ul>
