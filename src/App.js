@@ -43,7 +43,7 @@ class App extends Component {
           name: 'Home',
           exact: true,
           component: Home,
-          path: '/',
+          path: '/portfoliov4/',
           display: true,
           bg: content.home.bg
         },
@@ -51,7 +51,7 @@ class App extends Component {
           name: 'Who I Am',
           exact: true,
           component: About,
-          path: '/about',
+          path: '/portfoliov4/about',
           display: true,
           bg: content.about.bg
         },
@@ -59,7 +59,7 @@ class App extends Component {
           name: 'How We Fit',
           exact: true,
           component: Approach,
-          path: '/approach',
+          path: '/portfoliov4/approach',
           display: true,
           bg: content.approach.bg
         },
@@ -67,7 +67,7 @@ class App extends Component {
           name: 'Work',
           exact: true,
           component: Work,
-          path: '/work',
+          path: '/portfoliov4/work',
           display: true,
           bg: content.work.bg
         },
@@ -75,7 +75,7 @@ class App extends Component {
           name: 'Contact',
           exact: true,
           component: Contact,
-          path: '/contact',
+          path: '/portfoliov4/contact',
           display: true,
           bg: content.contact.bg
         },
@@ -83,7 +83,7 @@ class App extends Component {
           name: 'Work Detail',
           exact: false,
           component: WorkDetail,
-          path: '/work/:pid',
+          path: '/portfoliov4/work/:pid',
           display: false,
           bg: content.work.bg
         },
