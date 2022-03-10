@@ -100,7 +100,7 @@ class App extends Component {
               render={({ location }) => (
                 <div id='site-container'>
                   <MainMenu routes={routes.filter(r => r.display === true)} />
-                  <Bg routes={routes} currentRoute={location.pathname} />
+                  {/*<Bg routes={routes} currentRoute={location.pathname} />*/}
                   <PoseGroup>
                     <RouteContainer key={location.pathname}>
                       <Switch location={location}>

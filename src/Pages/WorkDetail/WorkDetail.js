@@ -68,7 +68,7 @@ class WorkDetail extends Component {
   }
   toggleHeading(){
     const { hasHeading } = this.state;
-    console.log(hasHeading);
+
     this.setState({
       hasHeading: !hasHeading
     });
