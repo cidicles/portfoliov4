@@ -40,6 +40,6 @@
     "not op_mini all"
   ],
   "devDependencies": {
-    "node-sass": "^5.0.0"
+    "node-sass": "^7.0.0"
   }
 }
