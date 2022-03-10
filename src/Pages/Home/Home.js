@@ -58,7 +58,7 @@ class Home extends Component {
             {content.home.subHeading}
         </Headline2>
         <CtaBottom className='cta-tri-bottom'>
-          <Link to={`/about`}>
+          <Link to={`/portfoliov4/about`}>
             {content.home.cta}
           </Link>
         </CtaBottom>

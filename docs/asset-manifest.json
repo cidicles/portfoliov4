@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/portfoliov4/static/css/main.dad81a30.css",
-    "main.js": "/portfoliov4/static/js/main.ec38a748.js",
+    "main.js": "/portfoliov4/static/js/main.5e8ccd3e.js",
     "static/media/leixo-demo-webfont.woff": "/portfoliov4/static/media/leixo-demo-webfont.988943b384c460fbc257.woff",
     "static/media/leixo-demo-webfont.woff2": "/portfoliov4/static/media/leixo-demo-webfont.5806e7e5bc956f4e90f3.woff2",
     "static/media/disolve_regular-webfont.woff": "/portfoliov4/static/media/disolve_regular-webfont.55c6188eb5cf95034992.woff",
     "static/media/disolve_regular-webfont.woff2": "/portfoliov4/static/media/disolve_regular-webfont.e8409bcfef099b93ce60.woff2",
     "index.html": "/portfoliov4/index.html",
     "main.dad81a30.css.map": "/portfoliov4/static/css/main.dad81a30.css.map",
-    "main.ec38a748.js.map": "/portfoliov4/static/js/main.ec38a748.js.map"
+    "main.5e8ccd3e.js.map": "/portfoliov4/static/js/main.5e8ccd3e.js.map"
   },
   "entrypoints": [
     "static/css/main.dad81a30.css",
-    "static/js/main.ec38a748.js"
+    "static/js/main.5e8ccd3e.js"
   ]
 }

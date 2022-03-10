@@ -74,7 +74,7 @@ class Approach extends Component {
             distY={0.04} 
             oMult={0.05} 
             time={0.25}>
-            <Link to={`/work`}>
+            <Link to={`/portfoliov4/work`}>
               <Btn className='cta left'>{content.approach.cta}</Btn>
             </Link>
           </CidiMouseMove>

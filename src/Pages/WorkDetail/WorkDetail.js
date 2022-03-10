@@ -89,7 +89,7 @@ class WorkDetail extends Component {
           <div className='featured-tab' onClick={this.toggleHeading}>
             { hasHeading ? 'Hide Title' : 'Show Title' }
           </div>
-          <Link to='/work'>
+          <Link to='/portfoliov4/work'>
             <div className='featured-back'>Back to Work</div>
           </Link>
           <div className='featured-video'>
@@ -142,7 +142,7 @@ class WorkDetail extends Component {
                       Visit Build
                     </a>
                   }
-                  <Link to='/work'>
+                  <Link to='/portfoliov4/work'>
                     <div className='featured-link highlight'>Back to Work</div>
                   </Link>
               </div>

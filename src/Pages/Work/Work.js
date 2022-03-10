@@ -38,7 +38,7 @@ class Work extends Component {
         <div className='text-center'>
           <h1>{content.work.heading}</h1>
           <p>{content.work.desc}</p>
-          <Link to={`/contact`}>
+          <Link to={`/portfoliov4/contact`}>
             <div className='cta-block'>
               {content.work.cta}
             </div>
@@ -46,7 +46,7 @@ class Work extends Component {
         </div>
         <Container className='grid grid--4-col-even'>
           {projects.projects.map((project, i) => 
-            <Link to={`/work/${i}`} key={`project-${i}`}>
+            <Link to={`/portfoliov4/work/${i}`} key={`project-${i}`}>
               <Project className='grid__item' style={{background: project.color}}>
                 <img src={project.logo} alt={project.title} />
                 <h4>{project.title}</h4>

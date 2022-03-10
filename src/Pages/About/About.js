@@ -73,7 +73,7 @@ class About extends Component {
             distY={0.04} 
             oMult={0.05} 
             time={0.25}>
-            <Link to={`/approach`}>
+            <Link to={`/portfoliov4/approach`}>
               <Btn className='cta'>{content.about.cta}</Btn>
             </Link>
           </CidiMouseMove>
